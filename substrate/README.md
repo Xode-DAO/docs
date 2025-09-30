@@ -14,9 +14,9 @@ Follow this guide to enable WSL on Windows, install Ubuntu, and set up Rust for 
 
 Install the required Rust version and toolchains needed for building ink! smart contracts.
 
-### 3. [Installing Cargo-Contract v3.2.0 and Creating an ink! Smart Contract](https://github.com/Xode-DAO/docs/blob/main/substrate/cargo-contract-installation.md)
+### 3. [Installing Cargo-Contract v3.2.0 and Creating an Smart Contract](https://github.com/Xode-DAO/docs/blob/main/substrate/cargo-contract-installation.md)
 
-Set up Cargo-Contract v3.2.0 and create your first ink! smart contract project.
+Set up Cargo-Contract v3.2.0 and create your first smart contract project.
 
 ### 4. [Installing Substrate Cargo Contract Node (v0.38.0)](https://github.com/Xode-DAO/docs/blob/main/substrate/cargo-contract-node-installation.md)
 
