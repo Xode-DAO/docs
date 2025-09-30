@@ -29,13 +29,6 @@ This guide explains how to upload and deploy a compiled smart contract to **Polk
 
 ---
 
-## ▶ Execute the Contract
-
-* After uploading the contract, you can now **execute its methods** directly from the **Developer > Contracts** section in Polkadot-JS UI.
-  ![alt text](https://github.com/user-attachments/assets/3bd33214-8d3c-4611-b015-9da0fab9cd92 "Sign and submit")
-
----
-
 ## 📚 Notes
 
 * Ensure your node is running and synced before uploading.
