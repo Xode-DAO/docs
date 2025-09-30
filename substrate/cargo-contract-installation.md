@@ -26,7 +26,7 @@ cargo install --force --locked cargo-contract --tag v3.2.0 --git https://github.
 
 ## 📝 Create a New Smart Contract
 
-Generate a new ink! project:
+Generate a new project:
 
 ```bash
 cargo contract new <project-name>
@@ -75,4 +75,3 @@ cargo contract build --release
 ## 📚 Additional Resources
 
 * [Cargo-Contract v3.2.0 Release Notes](https://github.com/use-ink/cargo-contract/releases/tag/v5.0.3)
-* [ink! Documentation](https://use.ink)
