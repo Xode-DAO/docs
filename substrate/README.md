@@ -10,7 +10,7 @@ This document outlines the essential steps for preparing a complete **Substrate 
 
 Follow this guide to enable WSL on Windows, install Ubuntu, and set up Rust for development.
 
-### 2. [Installing and Configuring Rust 1.89 for ink!](https://github.com/Xode-DAO/docs/blob/main/substrate/rust-toolchain-installation.md)
+### 2. [Installing and Configuring Rust 1.89](https://github.com/Xode-DAO/docs/blob/main/substrate/rust-toolchain-installation.md)
 
 Install the required Rust version and toolchains needed for building ink! smart contracts.
 
