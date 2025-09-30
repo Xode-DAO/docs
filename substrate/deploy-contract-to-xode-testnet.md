@@ -1,6 +1,6 @@
 # 📤 Uploading Smart Contract to Polkadot-JS Portal
 
-This guide explains how to upload and deploy a compiled ink! smart contract to **Polkadot-JS Portal** using the **XODE Testnet**.
+This guide explains how to upload and deploy a compiled smart contract to **Polkadot-JS Portal** using the **XODE Testnet**.
 
 ---
 
