@@ -1,6 +1,6 @@
 # 📄 Installing Substrate Cargo Contract Node (v0.38.0)
 
-This guide explains how to download, install, and run the **Substrate Cargo Contract Node** on Ubuntu (or WSL on Windows). This node is required for testing and deploying version 5 smart contracts built with [ink!](https://use.ink).
+This guide explains how to download, install, and run the **Substrate Cargo Contract Node** on Ubuntu (or WSL on Windows). This node is required for testing and deploying version 5 smart contracts.
 
 ---
 
