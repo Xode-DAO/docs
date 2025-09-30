@@ -6,7 +6,7 @@ This guide covers setting up **Rust v1.89** for building and running version 5 i
 
 ## 🛠 Prerequisites
 
-* **Ubuntu** or [**WSL2 on Windows**](https://github.com/villenaj/docs/blob/main/substrate/setup-wsl-rust.md) installed.
+* **Ubuntu** or [**WSL2 on Windows**](https://github.com/Xode-DAO/docs/blob/main/substrate/setup-wsl-rust.md) installed.
 * [Rustup](https://rustup.rs/) already installed.
 
 ---
