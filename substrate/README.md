@@ -24,4 +24,4 @@ Install and configure the Substrate Cargo Contract Node for local development an
 
 ### 5. [Uploading Smart Contract to Xode Blockchain](https://github.com/Xode-DAO/docs/blob/main/substrate/contract-deployment.md)
 
-Deploy and interact with your smart contract using the Polkadot-JS Portal interface.
+Deploy your smart contract using the Polkadot-JS Portal interface.
