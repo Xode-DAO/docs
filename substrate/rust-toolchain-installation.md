@@ -47,7 +47,7 @@ rustup component add rust-src --toolchain 1.89
 
 ### 5. Add WebAssembly Target
 
-Add the WebAssembly target for building ink! contracts:
+Add the WebAssembly target for building contracts:
 
 ```bash
 rustup target add wasm32-unknown-unknown --toolchain 1.89
