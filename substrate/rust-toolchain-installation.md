@@ -1,6 +1,6 @@
-# 🦀 Installing and Configuring Rust 1.89 for ink!
+# 🦀 Installing and Configuring Rust 1.89
 
-This guide covers setting up **Rust v1.89** for building and running version 5 ink! smart contracts.
+This guide covers setting up **Rust v1.89** for building and running version 5 smart contracts.
 
 ---
 
