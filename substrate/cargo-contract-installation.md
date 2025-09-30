@@ -1,6 +1,6 @@
-# 📦 Installing Cargo-Contract v3.2.0 and Creating an ink! Smart Contract
+# 📦 Installing Cargo-Contract v3.2.0 and Creating a Smart Contract
 
-This guide explains how to install **cargo-contract v3.2.0** and create, test, and build an ink! smart contract.
+This guide explains how to install **cargo-contract v3.2.0** and create, test, and build a smart contract.
 
 ---
 
