@@ -69,14 +69,6 @@ This guide explains how to upload and deploy a compiled smart contract to **Polk
 
 ---
 
-## ▶ Execute the Contract
-
-* After uploading the contract, navigate back to **Developer > Contracts**.
-* You can now **execute its methods** directly from this section.
-  ![alt text](https://github.com/user-attachments/assets/c7d60836-92ae-4e65-a789-16ec1a2df2a8 "Sign and submit")
-
----
-
 ## 📚 Notes
 
 * Ensure your wallet is funded from the faucet before deploying.
