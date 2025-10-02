@@ -22,7 +22,7 @@ Set up Cargo-Contract v3.2.0 and create your first smart contract project.
 
 Install and configure the Substrate Cargo Contract Node for local development and testing.
 
-### 5. [Uploading Smart Contract to Xode Blockchain](https://github.com/Xode-DAO/docs/blob/main/substrate/contract-deployment.md)
+### 5. [Uploading Smart Contract to Xode Blockchain](https://github.com/Xode-DAO/docs/blob/main/substrate/deploy-contract-to-xode-testnet.md)
 
 Deploy your smart contract using the Polkadot-JS Portal interface.
 
