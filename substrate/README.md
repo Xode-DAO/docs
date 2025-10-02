@@ -1,6 +1,6 @@
 # 🚀 Substrate Development Environment Setup
 
-This document outlines the essential steps for preparing a complete **Substrate ink! development environment** on Ubuntu or WSL. Follow these steps to install required tools, configure Rust, and deploy smart contracts using **version 5 ink!**.
+This document outlines the essential steps for preparing a complete **Substrate development environment** on Ubuntu or WSL. Follow these steps to install required tools, configure Rust, and deploy smart contracts using **version 5 smart contract**.
 
 ---
 
