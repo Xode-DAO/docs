@@ -17,7 +17,7 @@ This guide explains how to upload and deploy a compiled smart contract to **Polk
 ## 🌐 Connect to XODE Testnet Node
 
 1. Open [Polkadot-JS Apps](https://polkadot.js.org/apps/#/explorer?rpc=wss://paseo-rpcnode.xode.net).
-2. Click the network in the upper-right of the page.
+2. Click the network in the upper-left of the page.
 
    ![alt text](https://github.com/user-attachments/assets/27a8234f-d9f2-47b5-baf2-5862e3b613e5 "Choose network")
    
